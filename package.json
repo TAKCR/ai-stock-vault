@@ -1,9 +1,6 @@
 {
 <<<<<<< HEAD
   "homepage": "https://takcr.github.io/ai-stock-vault",
-=======
-  "homepage": "https://<yourusername>.github.io/ai-stock-vault",
->>>>>>> 99e1076979fd2b5c79281ca40aa5f542fab88276
   "scripts": {
   "dev": "vite",
   "build": "vite build",
