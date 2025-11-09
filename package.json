@@ -1,5 +1,5 @@
 {
-  "homepage": "https://<yourusername>.github.io/ai-stock-vault",
+  "homepage": "https://takcr.github.io/ai-stock-vault",
   "scripts": {
   "dev": "vite",
   "build": "vite build",
